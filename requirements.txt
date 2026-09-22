@@ -1,3 +1,7 @@
 langchain
 langchain-core
 langchain-community
+pypdf
+sentence-transformers
+faiss-cpu          ### vector store
+chromadb           ### vector store
