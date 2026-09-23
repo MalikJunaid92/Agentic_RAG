@@ -5,3 +5,5 @@ pypdf
 sentence-transformers
 faiss-cpu          ### vector store
 chromadb           ### vector store
+langchain-groq
+python-dotenv
